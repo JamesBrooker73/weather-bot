@@ -84,3 +84,8 @@ Thumbs.db
 # =========================
 config.local.py
 settings.local.py
+
+# =========================
+# Bruno
+# =========================
+weatherBotBruno/
